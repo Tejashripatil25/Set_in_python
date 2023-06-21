@@ -14,4 +14,5 @@ Example:
 Create a Set:
 
 fruit = {"apple", "banana", "cherry"}
+
 print(fruit)
